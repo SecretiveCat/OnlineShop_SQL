@@ -7,9 +7,9 @@ from psycopg2.extras import execute_values
 from faker import Faker
 
 
-HOST = 'localhost' 
-USER = 'postgres'
-PASSWORD = 'admin123'
+HOST = '******' 
+USER = '******'
+PASSWORD = '*******'
 DATABASE = 'assignment_02'
 PORT = '5432'
 
